@@ -17,3 +17,6 @@
 /tmp
 
 .idea
+.idea/coder_manual.iml
+
+.gitignore
